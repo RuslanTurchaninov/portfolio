@@ -49,7 +49,7 @@ He completed 2 intensives at the Loftschool programming school, a 5-week intensi
 - CSS
 - JavaScript
 
-### Links to my projects
+### Links to my projects:
 - Website forLionBank: https://ruslanturchaninov.github.io/Lion-Bank/
 - Website for AirAsia:  https://ruslanturchaninov.github.io/AirAsia/
 - slider:                   https://ruslanturchaninov.github.io/Slide-Animation/
