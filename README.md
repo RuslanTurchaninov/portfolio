@@ -25,6 +25,6 @@ Hi there 👋
 - 🥅 Постоянно учусь новому
 
 Связаться со мной: 
-Linkedin: https://www.linkedin.com/in/ruslan-turchaninov/ 
-Telegram: https://t.me/ruslanturchaninof
+- Linkedin: https://www.linkedin.com/in/ruslan-turchaninov/ 
+- Telegram: https://t.me/ruslanturchaninof
 
