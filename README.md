@@ -37,7 +37,7 @@
 [instagram]: https://www.instagram.com/ruslanturchaninof/
 [vk]: https://vk.com/turchaninov1
 
-<br />
+<br>
 ### Hi there 👋, I'm Ruslan
 
 I have been studying programming for almost half a year now. My training is based on creating projects - every time I learn something new, I immediately put the knowledge into practice. At the moment, I have a good knowledge of HTML and CSS, I understand the basics of JavaScript.
