@@ -72,9 +72,11 @@ He completed 2 intensives at the Loftschool programming school, a 5-week intensi
 [<img align="left" alt="Ruslan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ruslan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Ruslan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Ruslan | Telegram" width="22px" src="https://papik.pro/uploads/posts/2021-11/thumbs/1636144468_3-papik-pro-p-logotip-telegramma-foto-3.jpg" />][tg]
 
 [facebook]: https://www.facebook.com/r.turchaninov/
 [linkedin]: https://www.linkedin.com/in/ruslan-turchaninov/
 [instagram]: https://www.instagram.com/ruslanturchaninof/
 [vk]: https://vk.com/turchaninov1
+[tg]: https://t.me/ruslanturchaninof
 
