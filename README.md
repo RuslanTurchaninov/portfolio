@@ -17,4 +17,4 @@ Hi there 👋
 - Игра угадай число:         https://ruslanturchaninov.github.io/guess-number/
 - Игра в кости:              https://ruslanturchaninov.github.io/-ubes/
 - Калькулятор:               https://ruslanturchaninov.github.io/calculator/
-- Рисование                  https://ruslanturchaninov.github.io/drawing/
+- Рисование:                 https://ruslanturchaninov.github.io/drawing/
