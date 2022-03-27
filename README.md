@@ -4,13 +4,13 @@ Hi there 👋
 
 Окончил 2 интенсива в школе програмирования Loftschool, 5 недельный интенсив по верстки сайтов и 6 недельный интенсив по JavaScript. В данный момент продолжаю самостоятельное обучение JavaScript после закрелпение всех знании в планах начать изучение React.
 
-Мой stack:
+### Мой stack:
 - HTML
 - CSS
 - JavaScript
 
 
-Ссылки на мои проекты:
+### Ссылки на мои проекты:
 - Landing Page для LionBank: https://ruslanturchaninov.github.io/Lion-Bank/
 - Landing Page для AirAsia:  https://ruslanturchaninov.github.io/AirAsia/
 - Слайдер:                   https://ruslanturchaninov.github.io/Slide-Animation/
@@ -19,12 +19,11 @@ Hi there 👋
 - Калькулятор:               https://ruslanturchaninov.github.io/calculator/
 
 
-Хобби:
+### Хобби:
 - 💪 Люблю писать код
 - 🏂 Катаюсь на сноуборде
 - 🥅 Постоянно учусь новому
 
-Связаться со мной: 
 
 ### Связаться со мной:
 [<img align="left" alt="Ruslan | FaceBook" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/facebook_black_logo_icon_147136.png" />][facebook]
