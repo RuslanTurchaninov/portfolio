@@ -25,8 +25,6 @@ Hi there 👋
 - 🥅 Постоянно учусь новому
 
 Связаться со мной: 
-### Connect with me:
-
 [<img align="left" alt="Ruslan | FaceBook" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/facebook_black_logo_icon_147136.png" />][facebook]
 [<img align="left" alt="Ruslan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ruslan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
