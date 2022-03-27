@@ -18,3 +18,4 @@ Hi there 👋
 - Игра в кости:              https://ruslanturchaninov.github.io/-ubes/
 - Калькулятор:               https://ruslanturchaninov.github.io/calculator/
 
+- 💪 I like to write code
