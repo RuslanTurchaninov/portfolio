@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Ruslan
 
 Я уже почти пол года занимаюсь изучением программирования. Мое обучение основано на создании проектов – каждый раз, изучая что то новое, я сразу применяю знания на практике. На данный момент хорошо знаю HTML и CSS, разбираюсь в основах JavaScript.
 
@@ -38,7 +38,7 @@
 [vk]: https://vk.com/turchaninov1
 
 <br />
- ### Hi there 👋
+### Hi there 👋, I'm Ruslan
 
 I have been studying programming for almost half a year now. My training is based on creating projects - every time I learn something new, I immediately put the knowledge into practice. At the moment, I have a good knowledge of HTML and CSS, I understand the basics of JavaScript.
 
