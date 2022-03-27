@@ -27,14 +27,12 @@ Hi there 👋
 Связаться со мной: 
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="VladKalachev | FaceBook" width="22px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/facebook_black_logo_icon_147136.png" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
-[website]: https://webtricks-master.ru/
-[facabook]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
+[facebook]: https://www.facebook.com/r.turchaninov/
 [linkedin]: https://www.linkedin.com/in/ruslan-turchaninov/
 [instagram]: https://www.instagram.com/ruslanturchaninof/
 [vk]: https://vk.com/turchaninov1
