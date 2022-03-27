@@ -5,13 +5,13 @@ Hi there 👋
 Окончил 2 интенсива в школе програмирования Loftschool, 5 недельный интенсив по верстки сайтов и 6 недельный интенсив по JavaScript. В данный момент продолжаю самостоятельное обучение JavaScript и React.
 
 Мой stack:
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 Ссылки на мои проекты:
-Landing Page для LionBank <link rel="dns-prefetch" href="https://ruslanturchaninov.github.io/Lion-Bank/">
+Landing Page для LionBank https://ruslanturchaninov.github.io/Lion-Bank/
 Landing Page для AirAsia  https://ruslanturchaninov.github.io/AirAsia/
 Слайдер                   https://ruslanturchaninov.github.io/Slide-Animation/
 Игра угадай число         https://ruslanturchaninov.github.io/12/
