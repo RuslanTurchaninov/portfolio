@@ -52,7 +52,7 @@ He completed 2 intensives at the Loftschool programming school, a 5-week intensi
 - JavaScript
 
 ### Links to my projects:
-- Website forLionBank: https://ruslanturchaninov.github.io/Lion-Bank/
+- Website for LionBank: https://ruslanturchaninov.github.io/Lion-Bank/
 - Website for AirAsia:  https://ruslanturchaninov.github.io/AirAsia/
 - slider:                   https://ruslanturchaninov.github.io/Slide-Animation/
 - Guess the number game:         https://ruslanturchaninov.github.io/guess-number/
