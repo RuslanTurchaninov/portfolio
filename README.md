@@ -11,8 +11,8 @@
 
 
 ### Ссылки на мои проекты:
-- Landing Page для LionBank: https://ruslanturchaninov.github.io/Lion-Bank/
-- Landing Page для AirAsia:  https://ruslanturchaninov.github.io/AirAsia/
+- Сайт для LionBank: https://ruslanturchaninov.github.io/Lion-Bank/
+- Сайт для AirAsia:  https://ruslanturchaninov.github.io/AirAsia/
 - Слайдер:                   https://ruslanturchaninov.github.io/Slide-Animation/
 - Игра угадай число:         https://ruslanturchaninov.github.io/guess-number/
 - Игра в кости:              https://ruslanturchaninov.github.io/-ubes/
