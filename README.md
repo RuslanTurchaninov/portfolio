@@ -20,4 +20,10 @@ Hi there 👋
 
 
 Хобби:
-- 💪 I like to write code
+- 💪 Люблю писать код
+- 🏂 Катаюсь на сноуборде
+- 🥅 Постоянно учусь новому
+
+Связаться со мной: 
+webtricks-master.ruVladKalachev | YouTubeVladKalachev | https://www.linkedin.com/in/ruslan-turchaninov/ | InstagramVladKalachev | VK
+
