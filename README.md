@@ -25,5 +25,6 @@ Hi there 👋
 - 🥅 Постоянно учусь новому
 
 Связаться со мной: 
-webtricks-master.ruVladKalachev | YouTubeVladKalachev | https://www.linkedin.com/in/ruslan-turchaninov/ | InstagramVladKalachev | VK
+Linkedin: https://www.linkedin.com/in/ruslan-turchaninov/ 
+Telegram: https://t.me/ruslanturchaninof
 
