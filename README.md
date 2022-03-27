@@ -31,11 +31,13 @@
 [<img align="left" alt="Ruslan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ruslan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Ruslan | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Ruslan | Telegram" width="22px" src="https://w7.pngwing.com/pngs/309/9/png-transparent-telegram-computer-icons-messaging-apps-others-miscellaneous-angle-triangle-thumbnail.png" />][tg]
 
 [facebook]: https://www.facebook.com/r.turchaninov/
 [linkedin]: https://www.linkedin.com/in/ruslan-turchaninov/
 [instagram]: https://www.instagram.com/ruslanturchaninof/
 [vk]: https://vk.com/turchaninov1
+[tg]: https://t.me/ruslanturchaninof
 
 <br>
 <br>
