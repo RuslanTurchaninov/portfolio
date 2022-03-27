@@ -33,3 +33,9 @@ Hi there 👋
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
+[website]: https://webtricks-master.ru/
+[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
+[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
+[instagram]: https://www.instagram.com/corvaxv/
+[vk]: https://vk.com/vladislavkalachov
+
