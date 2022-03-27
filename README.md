@@ -15,4 +15,5 @@ Hi there 👋
 - Landing Page для AirAsia  https://ruslanturchaninov.github.io/AirAsia/
 - Слайдер                   https://ruslanturchaninov.github.io/Slide-Animation/
 - Игра угадай число         https://ruslanturchaninov.github.io/12/
-- Игра в кости             https://ruslanturchaninov.github.io/-ubes/
+- Игра в кости              https://ruslanturchaninov.github.io/-ubes/
+- Калькулятор               https://ruslanturchaninov.github.io/calculator/
