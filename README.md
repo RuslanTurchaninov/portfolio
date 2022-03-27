@@ -22,7 +22,7 @@
 ### Хобби:
 - 💪 Люблю писать код
 - 🏂 Катаюсь на сноуборде
-- 🥅 Постоянно учусь новому
+- 💻 Постоянно учусь новому
 - 🗻 Хожу в горы
 
 
@@ -64,7 +64,7 @@ He completed 2 intensives at the Loftschool programming school, a 5-week intensi
 ### Hobby:
 - 💪 I like to write code
 - 🏂 Snowboarding
-- 🥅 I am constantly learning new things
+- 💻 I am constantly learning new things
 - 🗻 I love mountains
 
 ### Connect with me:
