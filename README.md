@@ -14,6 +14,6 @@ Hi there 👋
 - Landing Page для LionBank: https://ruslanturchaninov.github.io/Lion-Bank/
 - Landing Page для AirAsia:  https://ruslanturchaninov.github.io/AirAsia/
 - Слайдер:                   https://ruslanturchaninov.github.io/Slide-Animation/
-- Игра угадай число:         https://ruslanturchaninov.github.io/12/
+- Игра угадай число:         https://ruslanturchaninov.github.io/guess-number/
 - Игра в кости:              https://ruslanturchaninov.github.io/-ubes/
 - Калькулятор:               https://ruslanturchaninov.github.io/calculator/
