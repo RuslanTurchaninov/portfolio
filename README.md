@@ -12,6 +12,7 @@
 
 ### Ссылки на мои проекты:
 - Сайт для LionBank:         https://ruslanturchaninov.github.io/Lion-Bank/
+- Сайт для MNTN              https://ruslanturchaninov.github.io/mntn/
 - Сайт для AirAsia:          https://ruslanturchaninov.github.io/AirAsia/
 - Слайдер:                   https://ruslanturchaninov.github.io/Slide-Animation/
 - Игра угадай число:         https://ruslanturchaninov.github.io/guess-number/
