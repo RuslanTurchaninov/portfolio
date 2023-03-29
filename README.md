@@ -1,13 +1,14 @@
 ### Всем привет 👋, Я Руслан
 
-Я уже почти пол года занимаюсь изучением программирования. Мое обучение основано на создании проектов – каждый раз, изучая что то новое, я сразу применяю знания на практике. На данный момент хорошо знаю HTML и CSS, разбираюсь в основах JavaScript.
+Я уже почти пол года занимаюсь изучением программирования. Мое обучение основано на создании проектов – каждый раз, изучая что то новое, я сразу применяю знания на практике. На данный момент хорошо знаю HTML и CSS, разбираюсь в основах JavaScript и Golang.
 
-Окончил 2 интенсива в школе програмирования Loftschool, 5 недельный интенсив по верстки сайтов и 6 недельный интенсив по JavaScript. В данный момент продолжаю самостоятельное обучение JavaScript, после закрепление всех знании в планах начать изучение React.
+Окончил 2 интенсива в школе програмирования Loftschool, 5 недельный интенсив по верстки сайтов и 6 недельный интенсив по JavaScript. В данный момент продолжаю самостоятельное обучение Golang.
 
 ### Мой stack:
 - HTML
 - CSS
 - JavaScript
+- Golang
 
 
 ### Ссылки на мои проекты:
@@ -45,14 +46,15 @@
 
 ### Hi there 👋, I'm Ruslan
 
-I have been studying programming for almost half a year now. My training is based on creating projects - every time I learn something new, I immediately put the knowledge into practice. At the moment, I have a good knowledge of HTML and CSS, I understand the basics of JavaScript.
+I have been studying programming for almost half a year now. My training is based on creating projects - every time I learn something new, I immediately put the knowledge into practice. At the moment, I have a good knowledge of HTML and CSS, I understand the basics of JavaScript and Golang.
 
-He completed 2 intensives at the Loftschool programming school, a 5-week intensive on website layout and a 6-week intensive on JavaScript. At the moment, I continue to learn JavaScript on my own after fixing all the knowledge in the plans to start learning React.
+He completed 2 intensives at the Loftschool programming school, a 5-week intensive on website layout and a 6-week intensive on JavaScript. At the moment, I continue to learn Golang..
 
 ### My stack:
 - HTML
 - CSS
 - JavaScript
+- Golang
 
 ### Links to my projects:
 - Website for LionBank:     https://ruslanturchaninov.github.io/Lion-Bank/
