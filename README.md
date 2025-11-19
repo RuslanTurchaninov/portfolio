@@ -1,8 +1,6 @@
 ### Всем привет 👋, Я Руслан
 
-Я уже почти пол года занимаюсь изучением программирования. Мое обучение основано на создании проектов – каждый раз, изучая что то новое, я сразу применяю знания на практике. На данный момент хорошо знаю HTML и CSS, разбираюсь в основах JavaScript и Golang.
-
-Окончил 2 интенсива в школе програмирования Loftschool, 5 недельный интенсив по верстки сайтов и 6 недельный интенсив по JavaScript. В данный момент продолжаю самостоятельное обучение Golang.
+Уже несколько лет я развиваюсь в IT, постоянно обновляя свой профессиональный профиль и навыки. Мой подход — практическое обучение: всё, что изучаю, я сразу применяю в реальной работе и личных проектах.
 
 ### Мой stack:
 - HTML
@@ -46,9 +44,7 @@
 
 ### Hi there 👋, I'm Ruslan
 
-I have been studying programming for almost half a year now. My training is based on creating projects - every time I learn something new, I immediately put the knowledge into practice. At the moment, I have a good knowledge of HTML and CSS, I understand the basics of JavaScript and Golang.
-
-He completed 2 intensives at the Loftschool programming school, a 5-week intensive on website layout and a 6-week intensive on JavaScript. At the moment, I continue to learn Golang..
+I've been developing in IT for several years now, constantly updating my professional profile and skills. My approach is hands-on learning: everything I learn, I immediately apply in real-world work and personal projects.
 
 ### My stack:
 - HTML
